@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal iOS", "Assembly-CSharp.csproj", "{87252C26-84B3-DD91-D202-7F6BC65F8316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal iOS", "Assembly-CSharp-Editor.csproj", "{B5BC0C21-228C-B666-B66C-7A6D48F0CA31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{87252C26-84B3-DD91-D202-7F6BC65F8316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87252C26-84B3-DD91-D202-7F6BC65F8316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87252C26-84B3-DD91-D202-7F6BC65F8316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BC0C21-228C-B666-B66C-7A6D48F0CA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BC0C21-228C-B666-B66C-7A6D48F0CA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BC0C21-228C-B666-B66C-7A6D48F0CA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BC0C21-228C-B666-B66C-7A6D48F0CA31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
