@@ -1,6 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Video360.shader">
+    <Files>
+      <File FileName="Assets/Shaders/StandardStencilFilter.shader" Line="42" Column="48" />
+      <File FileName="Assets/Shaders/SpecularStencilFilter.shader" Line="350" Column="47" />
+      <File FileName="Assets/Shaders/StencilFilter.shader" Line="12" Column="1" />
+      <File FileName="Assets/Shaders/PortalWindow.shader" Line="7" Column="2" />
+      <File FileName="Assets/Shaders/Skybox.shader" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="12" Column="36" />
+      <File FileName="Assets/Scripts/InterdimensionalTransport.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Portal.cs" Line="54" Column="18" />
+      <File FileName="Assets/Shaders/Video360.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

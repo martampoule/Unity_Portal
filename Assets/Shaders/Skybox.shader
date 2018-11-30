@@ -12,7 +12,7 @@ Properties {
 
     _Exposure("Exposure", Range(0, 8)) = 1.3
 
-    [Enum(Equal,3,NotEqual,6)] _StencilTest ("Stencil Test", Int) = 6
+   // [Enum(Equal,3,NotEqual,6)] _StencilTest ("Stencil Test", Int) = 6
 
 }
 
